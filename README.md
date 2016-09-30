@@ -1,4 +1,9 @@
 Repositorio de pruebas de DAW
 =============================
+<<<<<<< HEAD
+Hola, esto es *una prueba*...
 
--Prueba con el archivo README.MD
+Voy a implementar una foto de perfil
+=====
+Hola, esto es *una prueba*... fallo solucionado
+>>>>>>> master
